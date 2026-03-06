@@ -1,4 +1,4 @@
-# 🎮 Number Guessing Game (C++)
+#  Number Guessing Game (C++)
 
 ## Description
 
@@ -15,7 +15,7 @@ Le jeu se termine lorsque le joueur trouve le nombre ou lorsque le nombre maximu
 
 ---
 
-## 🎯 Niveaux de difficulté
+##  Niveaux de difficulté
 
 Le jeu propose trois niveaux :
 
@@ -25,7 +25,7 @@ Le jeu propose trois niveaux :
 
 ---
 
-## 🧠 Concepts utilisés
+##  Concepts utilisés
 
 Ce projet utilise plusieurs concepts de base du langage C++ :
 
@@ -47,7 +47,7 @@ g++ main.cpp -o game
 
 ---
 
-## ▶️ Exécution
+##  Exécution
 
 ```bash
 ./game
@@ -55,7 +55,7 @@ g++ main.cpp -o game
 
 ---
 
-## 📚 Objectif du projet
+##  Objectif du projet
 
 Ce projet a été réalisé pour pratiquer les bases du langage **C++**, notamment :
 
@@ -65,6 +65,6 @@ Ce projet a été réalisé pour pratiquer les bases du langage **C++**, notamme
 
 ---
 
-## 👨‍💻 Auteur
+## Auteur
 
 Projet réalisé dans le cadre de l’apprentissage du langage **C++** en première année.
